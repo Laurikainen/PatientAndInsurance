@@ -68,3 +68,6 @@ VALUES (5, 'BTA', '2012-12-12', '2023-12-11');
 INSERT INTO insurance (patient_id, iname, from_date, to_date) 
 VALUES (4, 'BZA', '2012-12-12', '2022-12-11');
 ```
+
+To run the PatientTest.php from command line use command - **php phpunit.phar UnitTest PatientTest.php**, in command prompt
+
